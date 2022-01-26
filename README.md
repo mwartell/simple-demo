@@ -16,12 +16,12 @@ Live demo: http://tangrams.github.io/simple-demo/
 
 4) Start a web server in this demo's directory:
 
-    python -m SimpleHTTPServer 8000
+    python -m SimpleHTTPServer 8001
 
 If that doesn't work, try:
 
-    python -m http.server 8000
+    python -m http.server 8001
 
-5) Then navigate to: [http://localhost:8000](http://localhost:8000)
+5) Then navigate to: [http://localhost:8001](http://localhost:8001)
 
 # another section
